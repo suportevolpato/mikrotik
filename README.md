@@ -16,7 +16,7 @@
 - MainInterface and backupInterface must be configured in dhcp-client
 - Only work with IPv4
 
-## How to use it
+## How to use it:
 - Set the mainInterface and the backupInterface variable (dhcp client configuration must exist)
 - Set the testHosts you want to use as reliable remote host to test connectivity
 - Upload the script to your router
