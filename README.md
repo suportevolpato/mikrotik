@@ -16,4 +16,10 @@
 - MainInterface and backupInterface must be configured in dhcp-client
 - Only work with IPv4
 
+## How to use it
+- Set the mainInterface and the backupInterface variable (dhcp client configuration must exist)
+- Set the testHosts you want to use as reliable remote host to test connectivity
+- Upload the script to your router
+- Schedule it to run every minutes  
+
 *Special thanks to author of this [thread](https://forum.mikrotik.com/viewtopic.php?p=875199&hilit=renew+ip#p875199) @Halesk2k*
