@@ -16,4 +16,4 @@
 - MainInterface and backupInterface must be configured in dhcp-client
 - Only work with IPv4
 
-Special thanks to author of this [thread](https://forum.mikrotik.com/viewtopic.php?p=875199&hilit=renew+ip#p875199) @Halesk2k
+*Special thanks to author of this [thread](https://forum.mikrotik.com/viewtopic.php?p=875199&hilit=renew+ip#p875199) @Halesk2k*
